@@ -2,6 +2,6 @@
 
 ## Digital Assignment 1
 
-da1/ contains the code for Digital Assignment 1
+The Da1 folder contains the question.pdf and the .ipynb files with code for Digital Assignment 1
 
-each question is stored in a separate .ipynb file
+Each question's answer is stored in a separate .ipynb file
